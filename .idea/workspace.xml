@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41ed68e7-21c2-49e1-8b88-d39156c5ff41" name="Default Changelist" comment="" />
+    <list default="true" id="41ed68e7-21c2-49e1-8b88-d39156c5ff41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/redmine-3.3-stable" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -145,7 +148,7 @@
       <workItem from="1576845164968" duration="2597000" />
       <workItem from="1577252803197" duration="755000" />
       <workItem from="1577600726633" duration="2413000" />
-      <workItem from="1577643665721" duration="1281000" />
+      <workItem from="1577643665721" duration="2655000" />
     </task>
     <servers />
   </component>
